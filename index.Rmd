@@ -7,7 +7,7 @@ author:
 
 date:
 
-- Popgroup 58 \linebreak \linebreak \tiny University of Sheffield \linebreak Sheffield, United Kingdom \linebreak January 09, 2025
+- Popgroup 58 \linebreak \linebreak \tiny The University of Sheffield \linebreak Sheffield, United Kingdom \linebreak January 09, 2025
 
 output:
   beamer_presentation:
