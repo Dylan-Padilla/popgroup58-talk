@@ -230,7 +230,7 @@ icon_style(fontawesome("r-project", style = "brands"), scale = 4)
 
 ***
 
-## Spatially varying selection driven by the seasonality of net primary production
+## Spatially varying selection driven by the seasonality of precipitation
 
 \centering
 
